@@ -1,7 +1,7 @@
 # 🫀 Heart Disease Prediction
 
 ## 📸 Project Snapshots  
-![Data Analysis](photo/Screenshot (112).png)  
+![Data Analysis](photo/Screenshot(112).png)  
 ![Model Training](path/to/your/image2.png)  
 ![Streamlit App](path/to/your/image3.png) 
 

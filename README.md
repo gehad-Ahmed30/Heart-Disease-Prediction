@@ -2,8 +2,8 @@
 
 ## 📸 Project Snapshots  
 ![Data Analysis](photo/Screenshot(112).png)  
-![Model Training](path/to/your/image2.png)  
-![Streamlit App](path/to/your/image3.png) 
+![Model Training](photo/Screenshot(113).png)  
+![Streamlit App](photo/Screenshot.png) 
 
 ## 📌 Project Overview  
 This project aims to predict the risk of heart disease using machine learning models trained on health-related data. The system analyzes patient information, processes it through a trained model, and provides predictions based on health indicators.
